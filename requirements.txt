@@ -1,0 +1,8 @@
+ultralytics>=8.0.0
+opencv-python
+numpy
+torch>=2.0.0      # install matching CUDA/cuDNN if you have GPU; otherwise CPU-only pip
+tqdm
+
+
+
